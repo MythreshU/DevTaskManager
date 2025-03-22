@@ -1,0 +1,36 @@
+body{
+    font-family: Arial;
+}
+
+.subscribe-button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    font-weight: bold;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.is-subscribed{
+    background-color: gray;
+    color: black;
+}
+
+.input-value {
+    font-size: 15px;
+    padding: 10px;
+}
+
+.calculate-button{
+    background-color: green;
+    border: none;
+    color: white;
+    font-size: 15px;
+    padding: 12px 15px;
+    cursor: pointer;
+}
